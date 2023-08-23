@@ -33,4 +33,13 @@ To use this implementation:
 ## Requirements
 
 Ensure you have the required packages installed:
+'''
+pip install numpy networkx matplotlib
+'''
+
+
+## Contact
+
+For questions or feedback, contact [Narges Babaahmadi](mailto:nargesbabaahmadi7@gmail.com).
+
 
