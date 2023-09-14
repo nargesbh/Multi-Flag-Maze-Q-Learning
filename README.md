@@ -1,5 +1,5 @@
 # Q-Learning Navigation in a Grid-World Maze
-
+![logo](maze.png)
 - [Overview](#overview)
   - [How It Works](#how-it-works)
 - [Usage](#usage)
